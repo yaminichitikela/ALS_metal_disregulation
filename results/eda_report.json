@@ -1,0 +1,177 @@
+{
+  "attribute_summary": [
+    {
+      "metal": "Fe",
+      "mean": 0.0,
+      "std": 1.0,
+      "min": -2.6106998920440674,
+      "max": 2.2843000888824463,
+      "missing": 0
+    },
+    {
+      "metal": "Zn",
+      "mean": -0.0,
+      "std": 1.0,
+      "min": -2.7523999214172363,
+      "max": 2.7019999027252197,
+      "missing": 0
+    },
+    {
+      "metal": "Cu",
+      "mean": 0.0,
+      "std": 1.0,
+      "min": -3.4739999771118164,
+      "max": 2.3615000247955322,
+      "missing": 0
+    },
+    {
+      "metal": "Mn",
+      "mean": 0.0,
+      "std": 1.0,
+      "min": -3.18179988861084,
+      "max": 2.3171000480651855,
+      "missing": 0
+    },
+    {
+      "metal": "Mg",
+      "mean": -0.0,
+      "std": 1.0,
+      "min": -3.5030999183654785,
+      "max": 3.5030999183654785,
+      "missing": 0
+    }
+  ],
+  "metal_correlations": {
+    "Fe": {
+      "Fe": 1.0,
+      "Zn": 0.0737,
+      "Cu": 0.8075,
+      "Mn": 0.4462,
+      "Mg": -0.1962
+    },
+    "Zn": {
+      "Fe": 0.0737,
+      "Zn": 1.0,
+      "Cu": -0.1109,
+      "Mn": 0.7294,
+      "Mg": -0.5073
+    },
+    "Cu": {
+      "Fe": 0.8075,
+      "Zn": -0.1109,
+      "Cu": 1.0,
+      "Mn": 0.22,
+      "Mg": 0.084
+    },
+    "Mn": {
+      "Fe": 0.4462,
+      "Zn": 0.7294,
+      "Cu": 0.22,
+      "Mn": 1.0,
+      "Mg": -0.4466
+    },
+    "Mg": {
+      "Fe": -0.1962,
+      "Zn": -0.5073,
+      "Cu": 0.084,
+      "Mn": -0.4466,
+      "Mg": 1.0
+    }
+  },
+  "top_genes_fe_correlation": {
+    "top_positive": [
+      {
+        "gene": "ENSG00000002933",
+        "correlation": 0.9391
+      },
+      {
+        "gene": "ENSG00000106565",
+        "correlation": 0.9382
+      },
+      {
+        "gene": "ENSG00000113657",
+        "correlation": 0.9369
+      },
+      {
+        "gene": "ENSG00000108828",
+        "correlation": 0.9369
+      },
+      {
+        "gene": "ENSG00000115935",
+        "correlation": 0.9282
+      },
+      {
+        "gene": "FTL",
+        "correlation": 0.9204
+      },
+      {
+        "gene": "ENSG00000090530",
+        "correlation": 0.9197
+      },
+      {
+        "gene": "ENSG00000117115",
+        "correlation": 0.9189
+      },
+      {
+        "gene": "ENSG00000108679",
+        "correlation": 0.9182
+      },
+      {
+        "gene": "ENSG00000010278",
+        "correlation": 0.9162
+      }
+    ],
+    "top_negative": [
+      {
+        "gene": "ENSG00000110931",
+        "correlation": -0.9245
+      },
+      {
+        "gene": "ENSG00000101638",
+        "correlation": -0.9199
+      },
+      {
+        "gene": "ENSG00000101349",
+        "correlation": -0.9116
+      },
+      {
+        "gene": "ENSG00000079841",
+        "correlation": -0.9064
+      },
+      {
+        "gene": "ENSG00000100320",
+        "correlation": -0.8917
+      },
+      {
+        "gene": "ENSG00000073670",
+        "correlation": -0.8858
+      },
+      {
+        "gene": "ENSG00000072657",
+        "correlation": -0.8845
+      },
+      {
+        "gene": "ENSG00000075035",
+        "correlation": -0.8833
+      },
+      {
+        "gene": "ENSG00000008300",
+        "correlation": -0.8831
+      },
+      {
+        "gene": "ENSG00000070182",
+        "correlation": -0.8778
+      }
+    ]
+  },
+  "expression_stats": {
+    "mean_expression_mean": 2.835900068283081,
+    "mean_expression_std": 1.3043999671936035,
+    "sparsity_mean": 0.0243,
+    "n_genes_gt50pct_zero": 22
+  },
+  "missing_values": {
+    "expression_matrix": 0,
+    "metal_targets": 0
+  }
+}

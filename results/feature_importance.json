@@ -1,0 +1,82 @@
+[
+  {
+    "gene": "CP",
+    "importance": 0.098194
+  },
+  {
+    "gene": "ENSG00000119655",
+    "importance": 0.087678
+  },
+  {
+    "gene": "CNNM2",
+    "importance": 0.082482
+  },
+  {
+    "gene": "ENSG00000249242",
+    "importance": 0.055183
+  },
+  {
+    "gene": "ENSG00000129951",
+    "importance": 0.039757
+  },
+  {
+    "gene": "ENSG00000119042",
+    "importance": 0.029585
+  },
+  {
+    "gene": "ENSG00000157212",
+    "importance": 0.026368
+  },
+  {
+    "gene": "ENSG00000026508",
+    "importance": 0.022805
+  },
+  {
+    "gene": "ENSG00000221946",
+    "importance": 0.021083
+  },
+  {
+    "gene": "ENSG00000131386",
+    "importance": 0.020411
+  },
+  {
+    "gene": "ENSG00000196639",
+    "importance": 0.018123
+  },
+  {
+    "gene": "ENSG00000147065",
+    "importance": 0.017592
+  },
+  {
+    "gene": "ENSG00000187094",
+    "importance": 0.015476
+  },
+  {
+    "gene": "ENSG00000257298",
+    "importance": 0.015351
+  },
+  {
+    "gene": "MT2A",
+    "importance": 0.013013
+  },
+  {
+    "gene": "ENSG00000135046",
+    "importance": 0.012519
+  },
+  {
+    "gene": "ENSG00000110786",
+    "importance": 0.012311
+  },
+  {
+    "gene": "ENSG00000100604",
+    "importance": 0.011385
+  },
+  {
+    "gene": "ENSG00000148180",
+    "importance": 0.010127
+  },
+  {
+    "gene": "ENSG00000160678",
+    "importance": 0.009845
+  }
+]

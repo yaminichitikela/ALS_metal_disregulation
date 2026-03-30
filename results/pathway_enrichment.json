@@ -1,0 +1,44 @@
+[
+  {
+    "pathway": "Iron homeostasis",
+    "n_genes": 7,
+    "pathway_size": 9,
+    "pvalue": 0.0,
+    "neg_log10_p": 12.959
+  },
+  {
+    "pathway": "Metal ion transport",
+    "n_genes": 3,
+    "pathway_size": 9,
+    "pvalue": 6.9e-05,
+    "neg_log10_p": 4.16
+  },
+  {
+    "pathway": "Oxidative stress",
+    "n_genes": 0,
+    "pathway_size": 5,
+    "pvalue": 1.0,
+    "neg_log10_p": -0.0
+  },
+  {
+    "pathway": "ALS motor neuron",
+    "n_genes": 0,
+    "pathway_size": 11,
+    "pvalue": 1.0,
+    "neg_log10_p": -0.0
+  },
+  {
+    "pathway": "Protein misfolding",
+    "n_genes": 0,
+    "pathway_size": 5,
+    "pvalue": 1.0,
+    "neg_log10_p": -0.0
+  },
+  {
+    "pathway": "Heat shock response",
+    "n_genes": 0,
+    "pathway_size": 2,
+    "pvalue": 1.0,
+    "neg_log10_p": -0.0
+  }
+]

@@ -1,0 +1,23 @@
+# Large data files — download automatically via run_pipeline.py
+data/*.gz
+data/*.txt
+data/*.npz
+data/*.soft.gz
+data/*.h5ad
+
+# Model checkpoints (large binaries)
+results/best_gnn.pt
+results/best_mlp.pt
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+
+# OS
+.DS_Store
+
+# Keep these folders tracked
+!data/.gitkeep
+!results/.gitkeep

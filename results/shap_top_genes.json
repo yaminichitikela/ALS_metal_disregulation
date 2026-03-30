@@ -1,0 +1,122 @@
+[
+  {
+    "gene": "FTL",
+    "shap": 1.196552,
+    "direction": "positive",
+    "pathway": "Iron homeostasis"
+  },
+  {
+    "gene": "SLC40A1",
+    "shap": 1.185104,
+    "direction": "positive",
+    "pathway": "Iron homeostasis"
+  },
+  {
+    "gene": "FTH1",
+    "shap": 1.16125,
+    "direction": "positive",
+    "pathway": "Iron homeostasis"
+  },
+  {
+    "gene": "SMAD4",
+    "shap": 1.077755,
+    "direction": "positive",
+    "pathway": "Iron signalling"
+  },
+  {
+    "gene": "TF",
+    "shap": 1.069763,
+    "direction": "positive",
+    "pathway": "Iron homeostasis"
+  },
+  {
+    "gene": "CP",
+    "shap": 1.067389,
+    "direction": "positive",
+    "pathway": "Iron homeostasis / copper"
+  },
+  {
+    "gene": "ZIP8",
+    "shap": 1.016715,
+    "direction": "negative",
+    "pathway": "Zinc / manganese transport"
+  },
+  {
+    "gene": "ATP7A",
+    "shap": 0.974124,
+    "direction": "positive",
+    "pathway": "Copper / zinc transport"
+  },
+  {
+    "gene": "ENSG00000119655",
+    "shap": 0.970324,
+    "direction": "positive",
+    "pathway": "Unknown"
+  },
+  {
+    "gene": "ATP7B",
+    "shap": 0.967216,
+    "direction": "negative",
+    "pathway": "Copper transport"
+  },
+  {
+    "gene": "ENSG00000147065",
+    "shap": 0.951738,
+    "direction": "positive",
+    "pathway": "Unknown"
+  },
+  {
+    "gene": "ENSG00000131386",
+    "shap": 0.950382,
+    "direction": "positive",
+    "pathway": "Unknown"
+  },
+  {
+    "gene": "ENSG00000189067",
+    "shap": 0.944822,
+    "direction": "positive",
+    "pathway": "Unknown"
+  },
+  {
+    "gene": "ENSG00000002933",
+    "shap": 0.939078,
+    "direction": "positive",
+    "pathway": "Unknown"
+  },
+  {
+    "gene": "ENSG00000186522",
+    "shap": 0.939015,
+    "direction": "positive",
+    "pathway": "Unknown"
+  },
+  {
+    "gene": "ENSG00000106565",
+    "shap": 0.938178,
+    "direction": "positive",
+    "pathway": "Unknown"
+  },
+  {
+    "gene": "HAMP",
+    "shap": 0.937746,
+    "direction": "positive",
+    "pathway": "Iron homeostasis"
+  },
+  {
+    "gene": "ENSG00000113657",
+    "shap": 0.93685,
+    "direction": "positive",
+    "pathway": "Unknown"
+  },
+  {
+    "gene": "ENSG00000108828",
+    "shap": 0.93685,
+    "direction": "positive",
+    "pathway": "Unknown"
+  },
+  {
+    "gene": "ENSG00000131724",
+    "shap": 0.934695,
+    "direction": "positive",
+    "pathway": "Unknown"
+  }
+]
